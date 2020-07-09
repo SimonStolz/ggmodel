@@ -1,4 +1,5 @@
-#![Image of Yaktocat](ggvar.jpg) ggvar
+# ggvar <img src='ggvar.jpg' align="right" height="138.5" />
+
 An R-package for ggplot-based visualization of vector autoregression (VAR) models.
 The package is compatible with:
 * R package "vars" by Pfaff et Stigler [link](https://cran.r-project.org/web/packages/vars/vars.pdf)
