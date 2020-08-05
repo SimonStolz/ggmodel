@@ -9,17 +9,15 @@ The package is compatible with:
 It aims to make your life easier by providing functions to transform model outputs to tidy format, which builds the baseline to creating beautiful ggplot-based visualizations.
 Next to the advantage of being able to apply various customizations in ggplot, using ggsave() you can easily output the plots for presentations and publications. Also, using the gganimate package [link](https://gganimate.com/) you can prepare animated plots (compatible with Microsoft PowerPoint).
 
-## Density Comparison ("MatchIt")
+## Density Comparison
+Building on models created via MatchIt
 *Under development*
 
-## Impulse Response Functions (IRF) (Package: vars and panelvar)
+## Impulse Response Functions (IRF)
+Building on models created via vars and panelvar
 *Under development*
 
-## Forecast Error Variance Decomposition (Package: vars and panelvar)
+## Forecast Error Variance Decomposition
+Building on models created via vars and panelvar
 *Under development*
 
-## Granger Causality Heatmaps (Package: vars and panelvar)
-*Under development*
-
-## Granger Causality Networks (Package: vars and panelvar)
-*Under development*
